@@ -1,4 +1,4 @@
-# Resnet_Promoter_Classification
+# Resnet Promoter Classification
 
 The reliable detection and classification of promoters in DNA remains a challenging task even
 today. Recent advances in this field consist mainly, of the application of deep-learning techniques
